@@ -1,0 +1,16 @@
+variable,VIF
+coord_lat,inf
+coord_lon,inf
+coord_lon,inf
+coord_lat,inf
+components_pm2_5,40.56768692038928
+components_pm10,38.47331489915019
+components_co,37.99445014958008
+components_no2,16.74697770240327
+components_so2,5.556898912097576
+components_no,4.9446289033880815
+components_o3,2.3818121998889903
+components_nh3,2.172471891651999
+hour,1.1268398489112956
+month,1.0513330487459123
+dayofweek,1.0199717314995298
